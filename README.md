@@ -1,5 +1,5 @@
-# 95-880 Python for Developers Project
-Team members: Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
+# Team members
+Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 
 # Project Guideline
 ## Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
