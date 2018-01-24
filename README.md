@@ -32,20 +32,14 @@ Demo will be performed In-Class
 Each deliverable is graded on the following scale at the discretion of the professor.
 
  100% Superior Work
-
  95% Exceeds Expectations
- 
  85% Meets Expectations
-
  70% Nearly Meets Expectations
- 
  0% Unacceptable
 
 # Important Links
 GitHub https://github.com
-
 GitHub Pages https://pages.github.com
-
 GitHub Project Boards https://help.github.com/articles/about-project-boards
 
 Heroku
