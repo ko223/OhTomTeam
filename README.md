@@ -39,7 +39,9 @@ Each deliverable is graded on the following scale at the discretion of the profe
 
 # Important Links
 GitHub https://github.com
+
 GitHub Pages https://pages.github.com
+
 GitHub Project Boards https://help.github.com/articles/about-project-boards
 
 Heroku
