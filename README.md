@@ -45,8 +45,4 @@ Each deliverable is graded on the following scale at the discretion of the profe
 * GitHub https://github.com
 * GitHub Pages https://pages.github.com
 * GitHub Project Boards https://help.github.com/articles/about-project-boards
-* Heroku
-** https://www.heroku.com/
-** https://devcenter.heroku.com/articles/deploying-python
-** https://devcenter.heroku.com/articles/django-assets
-** https://devcenter.heroku.com/articles/django-app-configuration
+* Heroku https://www.heroku.com/, https://devcenter.heroku.com/articles/deploying-python, https://devcenter.heroku.com/articles/django-assets, https://devcenter.heroku.com/articles/django-app-configuration
