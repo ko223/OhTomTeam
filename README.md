@@ -4,12 +4,16 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 # Project Guideline
 ## Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
 
-* Who are your customers?
-* What are their needs? 
-* What specific problem(s) will you solve?
-* Why do these problems need solved?
-* Where are you going to pull the data from?
-
+* Q1. Who are your customers?
+>> Job seeking students at Carnegie Mellon University
+* Q2. What are their needs?
+>> Convenient, personalized, and helpful job searching experience.
+* Q3. What specific problem(s) will you solve?
+>> Provide one-stop website to provide job opportunities, company reviews, interview feedback, and salary information.
+* Q4. Why do these problems need solved?
+>> CMU students are very busy with academic courses & projects in the middle of job searching. Thus providing them with one-stop webpage with useful information will be best assist students in their job searching.
+* Q5 Where are you going to pull the data from?
+>> Websites from indeed.com, glassdoor.com, and/or linkedin.com
 
 ## Deliverable 2 - Project Board (Using GitHub Project Boards) due Feb 3rd
 
