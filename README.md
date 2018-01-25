@@ -5,15 +5,15 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 ## Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
 
 * Q1. Who are your customers?
->> Job seeking students at Carnegie Mellon University
+  * Job seeking students at Carnegie Mellon University
 * Q2. What are their needs?
->> Convenient, personalized, and helpful job searching experience.
+  * Convenient, personalized, and helpful job searching experience.
 * Q3. What specific problem(s) will you solve?
->> Provide one-stop website to provide job opportunities, company reviews, interview feedback, and salary information.
+  * Provide one-stop website to provide job opportunities, company reviews, interview feedback, and salary information.
 * Q4. Why do these problems need solved?
->> CMU students are very busy with academic courses & projects in the middle of job searching. Thus providing them with one-stop webpage with useful information will be best assist students in their job searching.
+  * CMU students are very busy with academic courses & projects in the middle of job searching. Thus providing them with one-stop webpage with useful information will be best assist students in their job searching.
 * Q5 Where are you going to pull the data from?
->> Websites from indeed.com, glassdoor.com, and/or linkedin.com
+  * Websites from indeed.com, glassdoor.com, and/or linkedin.com
 
 ## Deliverable 2 - Project Board (Using GitHub Project Boards) due Feb 3rd
 
@@ -45,7 +45,14 @@ Each deliverable is graded on the following scale at the discretion of the profe
 * 0% Unacceptable
 
 # Important Links
-* GitHub https://github.com
-* GitHub Pages https://pages.github.com
-* GitHub Project Boards https://help.github.com/articles/about-project-boards
-* Heroku https://www.heroku.com/, https://devcenter.heroku.com/articles/deploying-python, https://devcenter.heroku.com/articles/django-assets, https://devcenter.heroku.com/articles/django-app-configuration
+* GitHub 
+  * https://github.com
+* GitHub Pages 
+  * https://pages.github.com
+* GitHub Project Boards 
+  * https://help.github.com/articles/about-project-boards
+* Heroku 
+  * https://www.heroku.com/
+  * https://devcenter.heroku.com/articles/deploying-python
+  * https://devcenter.heroku.com/articles/django-assets
+  * https://devcenter.heroku.com/articles/django-app-configuration
