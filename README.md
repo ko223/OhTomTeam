@@ -19,12 +19,12 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 
 * A detailed list of tasks that need performed in order to accomplish this project.
 
-## (SUBMITTED) Deliverable 3 - Web Scraped Data Review (Using GitHub) due Feb 17th
+### (SUBMITTED) Deliverable 3 - Web Scraped Data Review (Using GitHub) due Feb 17th
 
 * An example CSV file that contains data scraped and/or extracted from your data sources.
 * Associated source code that scrapes and/or pulls the data.
 
-## Deliverable 4 - UI Wireframe Review (Using GitHub Pages) due Feb 24th
+# Deliverable 4 - UI Wireframe Review (Using GitHub Pages) due Feb 24th
 
 * Basic wireframes or screenshot captures documented in your GitHub pages with a detailed description of the application.
 * Welcome screen
