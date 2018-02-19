@@ -1,8 +1,8 @@
 # Team members
 Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 
-# Project Guideline
-## (SUBMITTED) Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
+# Project Deliverables
+### (SUBMITTED) Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
 
 * Q1. Who are your customers?
   * Job seeking students at Carnegie Mellon University
@@ -15,7 +15,7 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 * Q5 Where are you going to pull the data from?
   * Websites from indeed.com, glassdoor.com, and/or linkedin.com
 
-## (SUBMITTED) Deliverable 2 - Project Board (Using GitHub Project Boards) due Feb 3rd
+### (SUBMITTED) Deliverable 2 - Project Board (Using GitHub Project Boards) due Feb 3rd
 
 * A detailed list of tasks that need performed in order to accomplish this project.
 
@@ -33,7 +33,7 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 * Result screen
 
 
-## Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo due Mar 3rd
+### Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo due Mar 3rd
 
 * Source Code will be Posted on GitHub
 * Project Board will use GitHub Project Boards
