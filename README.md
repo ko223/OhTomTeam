@@ -2,7 +2,7 @@
 Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 
 # Project Guideline
-## (DONE) Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
+## (SUBMITTED) Deliverable 1 - Project Proposal (Using GitHub Pages) due Jan 27th
 
 * Q1. Who are your customers?
   * Job seeking students at Carnegie Mellon University
@@ -15,11 +15,11 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 * Q5 Where are you going to pull the data from?
   * Websites from indeed.com, glassdoor.com, and/or linkedin.com
 
-## (DONE) Deliverable 2 - Project Board (Using GitHub Project Boards) due Feb 3rd
+## (SUBMITTED) Deliverable 2 - Project Board (Using GitHub Project Boards) due Feb 3rd
 
 * A detailed list of tasks that need performed in order to accomplish this project.
 
-## (DONE) Deliverable 3 - Web Scraped Data Review (Using GitHub) due Feb 17th
+## (SUBMITTED) Deliverable 3 - Web Scraped Data Review (Using GitHub) due Feb 17th
 
 * An example CSV file that contains data scraped and/or extracted from your data sources.
 * Associated source code that scrapes and/or pulls the data.
