@@ -27,10 +27,10 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 # Deliverable 4 - UI Wireframe Review (Using GitHub Pages) due Feb 24th
 
 * Basic wireframes or screenshot captures documented in your GitHub pages with a detailed description of the application.
-* Welcome screen
+* Welcome screen: shows user input to be collected such as position, location, and number of pages.
 ![](Deliverable4.png)
 
-* Result screen
+* Result screen: shows the result of web scraping by job title, company, location, and posted date.
 ![](Deliverable4-2.png)
 
 ### Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo due Mar 3rd
