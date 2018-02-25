@@ -28,10 +28,10 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 
 * Basic wireframes or screenshot captures documented in your GitHub pages with a detailed description of the application.
 * Welcome screen
-
+![](Deliverable4.png)
 
 * Result screen
-
+![](Deliverable4-2.png)
 
 ### Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo due Mar 3rd
 
