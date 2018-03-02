@@ -31,7 +31,7 @@ Tom Oh(koh1), Claire Yoon(sunjeuny), and Sam Huang(shenquah)
 ![](Deliverable4.png)
 
 * Result screen: shows the result of web scraping by job title, company, location, and posted date.
-![](Deliverable4-2.png)
+![](Deliverable4-3.png)
 
 ### Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo due Mar 3rd
 
